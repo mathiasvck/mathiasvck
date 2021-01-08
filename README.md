@@ -13,11 +13,11 @@
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)&nbsp;
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)&nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-  ![Visual Studio]https://img.shields.io/badge/-Visual%20Studio-black?style=flat&logo=visual-studio&logoColor=5C2D91
+  ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-black?style=flat&logo=visual-studio&logoColor=5C2D91)&nbsp;
 
 ### 📫 How to reach me
 
-  <a href="https://www.linkedin.com/in/mathiasvervaecke/"><img src="https://img.shields.io/badge/-Mathias%20Vervaecke-0077B5?       style=flat&logo=Linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/mathiasvervaecke/"><img src="https://img.shields.io/badge/-Mathias%20Vervaecke-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>  
   <a href="mailto:vervaeckemathias@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
   <a href="https://twitter.com/mathiasvck"><img src="https://img.shields.io/badge/-@mathiasvcr-1877F2?style=flat&logo=Twitter&logoColor=white"/></a>
 
