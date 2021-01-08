@@ -1,16 +1,31 @@
-### Hi there 👋
+### 👋 Hi, I'm Mathias
 
-<!--
-**mathiasvck/mathiasvck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👨 &nbsp; I'm a software development enthusiast and newbie
+- 🎓 &nbsp; I’m currently studying Programming at HoGent in Belgium
+- 📖 &nbsp; Learning HTML/CSS/JS and C#
 
-Here are some ideas to get you started:
+### 🛠 Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)&nbsp;
+  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+  ![C#](https://img.shields.io/badge/-C%20Sharp-black?style=flat&logo=c-sharp&logoColor=239120)&nbsp;
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)&nbsp;
+  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)&nbsp;
+  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)&nbsp;
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+  ![Visual Studio]https://img.shields.io/badge/-Visual%20Studio-black?style=flat&logo=visual-studio&logoColor=5C2D91
+
+### 📫 How to reach me
+
+  <a href="https://www.linkedin.com/in/mathiasvervaecke/"><img src="https://img.shields.io/badge/-Mathias%20Vervaecke-0077B5?       style=flat&logo=Linkedin&logoColor=white"/></a>
+  <a href="mailto:vervaeckemathias@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+  <a href="https://twitter.com/mathiasvck"><img src="https://img.shields.io/badge/-@mathiasvcr-1877F2?style=flat&logo=Twitter&logoColor=white"/></a>
+
+ <!-- <a href="https://github.com/AVS1508">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=usmahm&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=usmahm&theme=buefy&layout=compact" />
+</a> -->
+
+
+
+
