@@ -1,6 +1,7 @@
 ### 👋 Hi, I'm Mathias
 
 - 👨 &nbsp; I'm a software development enthusiast and newbie
+- 💼 &nbsp; Currently working as web merchandiser at Decathlon, transitioning to front-end developer
 - 🎓 &nbsp; I’m currently studying Programming at HoGent in Belgium
 - 📖 &nbsp; Learning HTML/CSS/JS and C#
 
