@@ -1,9 +1,8 @@
 ### 👋 Hi, I'm Mathias
 
 - 👨 &nbsp; I'm a software development enthusiast and newbie
-- 💼 &nbsp; Currently working as web merchandiser at Decathlon, transitioning to front-end developer
-- 🎓 &nbsp; I’m currently studying Programming at HoGent in Belgium
-- 📖 &nbsp; Learning HTML/CSS/JS and C#
+- 💼 &nbsp; Currently working as financial advisor, but looking to start a side-business
+- 📖 &nbsp; Learning HTML , CSS and 
 
 ### 🛠 Tech Stack
 
@@ -20,7 +19,6 @@
 
   <a href="https://www.linkedin.com/in/mathiasvervaecke/"><img src="https://img.shields.io/badge/-Mathias%20Vervaecke-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>&nbsp;  
   <a href="mailto:vervaeckemathias@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white"/></a>&nbsp;
-  <a href="https://twitter.com/mathiasvck"><img src="https://img.shields.io/badge/-@mathiasvck-1877F2?style=flat&logo=Twitter&logoColor=white"/></a>&nbsp;
 
  <!-- <a href="https://github.com/AVS1508">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=usmahm&theme=buefy&show_icons=true" />
