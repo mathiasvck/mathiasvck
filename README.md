@@ -1,7 +1,7 @@
 ### 👋 Hi, I'm Mathias
 
 - 👨 &nbsp; I'm a software development enthusiast and newbie
-- 💼 &nbsp; Currently working as personal triner, but looking to start in tech
+- 💼 &nbsp; Currently working as personal trainer, but looking to start in tech
 - 📖 &nbsp; Learning HTML , CSS and 
 
 ### 🛠 Tech Stack
