@@ -1,7 +1,7 @@
 ### 👋 Hi, I'm Mathias
 
 - 👨 &nbsp; I'm a software development enthusiast and newbie
-- 💼 &nbsp; Currently working as financial advisor, but looking to start a side-business
+- 💼 &nbsp; Currently working as personal triner, but looking to start in tech
 - 📖 &nbsp; Learning HTML , CSS and 
 
 ### 🛠 Tech Stack
@@ -18,7 +18,7 @@
 ### 📫 How to reach me
 
   <a href="https://www.linkedin.com/in/mathiasvervaecke/"><img src="https://img.shields.io/badge/-Mathias%20Vervaecke-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>&nbsp;  
-  <a href="mailto:vervaeckemathias@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white"/></a>&nbsp;
+  <a href="mailto:mathias.vervaecke@icloud.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white"/></a>&nbsp;
 
  <!-- <a href="https://github.com/AVS1508">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=usmahm&theme=buefy&show_icons=true" />
