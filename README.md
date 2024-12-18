@@ -2,7 +2,7 @@
 
 - 👨 &nbsp; I'm a software development enthusiast and newbie
 - 💼 &nbsp; Currently working as personal trainer, but looking to start in tech
-- 📖 &nbsp; Learning HTML , CSS and 
+- 📖 &nbsp; Learning Front - and Back End Development
 
 ### 🛠 Tech Stack
 
